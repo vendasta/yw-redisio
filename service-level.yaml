@@ -1,0 +1,6 @@
+services:
+  - name: yw-redisio
+    owner: honey-badger
+    language: ruby
+    nonServiceType: configuration
+    description: "A chef cookbook for installing and managing redis instances"
